@@ -1,0 +1,146 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  full_context.cpp
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(511): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(511): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(512): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(513): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(513): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(514): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(514): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(517): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(532): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(534): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(535): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(535): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(536): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(537): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(537): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(544): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(548): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(549): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(551): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(552): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(557): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(558): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(560): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(562): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(563): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(565): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(566): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(568): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(570): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(571): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(577): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(582): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(597): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(598): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(599): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(600): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(603): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(603): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(604): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(605): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(608): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(608): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(609): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(611): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(612): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(612): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(615): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(630): warning C4996: 'cl::string::operator =': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(591): note: see declaration of 'cl::string::operator ='
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(636): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(637): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(641): warning C4996: 'cl::string::size_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(487): note: see declaration of 'cl::string::size_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(644): warning C4996: 'cl::string::size': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(641): note: see declaration of 'cl::string::size'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(649): warning C4996: 'cl::string::str_': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(488): note: see declaration of 'cl::string::str_'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(651): warning C4996: 'cl::string': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(485): note: see declaration of 'cl::string'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(4975): warning C4996: 'cl::string::c_str': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(649): note: see declaration of 'cl::string::c_str'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(4976): warning C4996: 'cl::string::size': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(641): note: see declaration of 'cl::string::size'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(5011): warning C4996: 'cl::string::c_str': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(649): note: see declaration of 'cl::string::c_str'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(5012): warning C4996: 'cl::string::size': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(641): note: see declaration of 'cl::string::size'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(5157): warning C4996: 'cl::string::c_str': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(649): note: see declaration of 'cl::string::c_str'
+d:\raja\programming\hpc\opencl.in.action\source\ch8_full_context\full_context.cpp(19): warning C4996: 'cl::string': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(485): note: see declaration of 'cl::string'
+d:\raja\programming\hpc\opencl.in.action\source\ch8_full_context\full_context.cpp(35): warning C4996: 'cl::string::operator =': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(591): note: see declaration of 'cl::string::operator ='
+d:\raja\programming\hpc\opencl.in.action\source\ch8_full_context\full_context.cpp(35): warning C4996: 'cl::string::~string': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(634): note: see declaration of 'cl::string::~string'
+d:\raja\programming\hpc\opencl.in.action\source\ch8_full_context\full_context.cpp(36): warning C4996: 'cl::string::c_str': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(649): note: see declaration of 'cl::string::c_str'
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(2079): warning C4996: 'cl::string::string': was declared deprecated
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(626): note: see declaration of 'cl::string::string'
+  d:\raja\programming\hpc\opencl.in.action\source\ch8_full_context\full_context.cpp(35): note: see reference to function template instantiation 'cl::detail::param_traits<cl::detail::cl_device_info,4139>::param_type cl::Device::getInfo<4139>(cl_int *) const' being compiled
+c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(1223): error C2039: 'assign': is not a member of 'cl::string'
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(485): note: see declaration of 'cl::string'
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(1576): note: see reference to function template instantiation 'cl_int cl::detail::getInfoHelper<cl::detail::GetInfoFunctor0<Func,Arg0>>(cl::detail::GetInfoFunctor0<Func,Arg0>,cl_uint,cl::STRING_CLASS *,long)' being compiled
+          with
+          [
+              Func=cl_int (__stdcall *)(cl_platform_id,cl_platform_info,std::size_t,void *,size_t *),
+              Arg0=_cl_platform_id *
+          ]
+  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.hpp(2180): note: see reference to function template instantiation 'cl_int cl::detail::getInfo<cl_int(__stdcall *)(cl_platform_id,cl_platform_info,std::size_t,void *,size_t *),_cl_platform_id*,cl::STRING_CLASS>(Func,const Arg0 &,cl_uint,T *)' being compiled
+          with
+          [
+              Func=cl_int (__stdcall *)(cl_platform_id,cl_platform_info,std::size_t,void *,size_t *),
+              Arg0=_cl_platform_id *,
+              T=cl::STRING_CLASS
+          ]

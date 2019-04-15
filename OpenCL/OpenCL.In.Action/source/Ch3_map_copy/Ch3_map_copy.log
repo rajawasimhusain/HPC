@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  map_copy.cpp
+  Ch3_map_copy.vcxproj -> D:\Raja\Programming\HPC\OpenCL.In.Action\source\Ch3_map_copy\.\Ch03_map_copy.exe
+  Ch3_map_copy.vcxproj -> .\Ch03_map_copy.pdb (Full PDB)

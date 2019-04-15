@@ -1,0 +1,2 @@
+﻿  hm_win32_posix.cpp
+LINK : fatal error LNK1104: cannot open file 'cuadrt.lib'

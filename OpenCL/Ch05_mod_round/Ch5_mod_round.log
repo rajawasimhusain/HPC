@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  mod_round.cpp
+  Ch5_mod_round.vcxproj -> D:\Raja\Programming\HPC\OpenCL.In.Action\source\Ch5_mod_round\.\Ch05_mod_round.exe
+  Ch5_mod_round.vcxproj -> .\Ch05_mod_round.pdb (Full PDB)

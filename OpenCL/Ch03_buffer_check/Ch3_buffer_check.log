@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  buffer_check.cpp
+d:\raja\programming\hpc\opencl.in.action\source\ch3_buffer_check\buffer_check.cpp(53): warning C4101: 'region': unreferenced local variable
+d:\raja\programming\hpc\opencl.in.action\source\ch3_buffer_check\buffer_check.cpp(52): warning C4101: 'sub_buffer_size': unreferenced local variable
+d:\raja\programming\hpc\opencl.in.action\source\ch3_buffer_check\buffer_check.cpp(99): warning C4700: uninitialized local variable 'sub_buffer' used
+  Ch3_buffer_check.vcxproj -> D:\Raja\Programming\HPC\OpenCL.In.Action\source\Ch3_buffer_check\.\Ch03_buffer_check.exe
+  Ch3_buffer_check.vcxproj -> .\Ch03_buffer_check.pdb (Full PDB)

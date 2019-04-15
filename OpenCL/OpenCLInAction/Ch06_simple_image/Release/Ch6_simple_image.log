@@ -1,9 +1,0 @@
-﻿  simple_image.cpp
-d:\raja\programming\hpc\opencl.in.action\source\ch6_simple_image\simple_image.cpp(210): warning C4996: 'clCreateImage2D': was declared deprecated
-  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.h(1191): note: see declaration of 'clCreateImage2D'
-d:\raja\programming\hpc\opencl.in.action\source\ch6_simple_image\simple_image.cpp(213): warning C4996: 'clCreateImage2D': was declared deprecated
-  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.h(1191): note: see declaration of 'clCreateImage2D'
-simple_image.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
-  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
-  Ch6_simple_image.vcxproj -> D:\Raja\Programming\HPC\OpenCL.In.Action\source\Release\Ch06_simple_image.exe
-  Ch6_simple_image.vcxproj -> D:\Raja\Programming\HPC\OpenCL.In.Action\source\Release\Ch06_simple_image.pdb (Full PDB)

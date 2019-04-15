@@ -1,8 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-  profile_read.cpp
-d:\raja\programming\hpc\opencl.in.action\source\ch7_profile_read\profile_read.cpp(80): warning C4477: 'printf' : format string '%lu' requires an argument of type 'unsigned long', but variadic argument 1 has type 'cl_ulong'
-  d:\raja\programming\hpc\opencl.in.action\source\ch7_profile_read\profile_read.cpp(80): note: consider using '%llu' in the format string
-  d:\raja\programming\hpc\opencl.in.action\source\ch7_profile_read\profile_read.cpp(80): note: consider using '%I64u' in the format string
-d:\raja\programming\hpc\opencl.in.action\source\ch7_profile_read\profile_read.cpp(21): warning C4101: 'data': unreferenced local variable
-  Ch7_profile_read.vcxproj -> D:\Raja\Programming\HPC\OpenCL.In.Action\source\Ch7_profile_read\.\Ch07_profile_read.exe
-  Ch7_profile_read.vcxproj -> .\Ch07_profile_read.pdb (Full PDB)

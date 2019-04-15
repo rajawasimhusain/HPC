@@ -1,8 +1,0 @@
-﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
-  interp.cpp
-d:\raja\programming\hpc\opencl.in.action\source\ch6_interp\interp.cpp(209): warning C4996: 'clCreateImage2D': was declared deprecated
-  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.h(1191): note: see declaration of 'clCreateImage2D'
-d:\raja\programming\hpc\opencl.in.action\source\ch6_interp\interp.cpp(216): warning C4996: 'clCreateImage2D': was declared deprecated
-  c:\program files\nvidia gpu computing toolkit\cuda\v8.0\include\cl\cl.h(1191): note: see declaration of 'clCreateImage2D'
-  Ch6_interp.vcxproj -> D:\Raja\Programming\HPC\OpenCL.In.Action\source\Ch6_interp\.\Ch06_interp.exe
-  Ch6_interp.vcxproj -> .\Ch06_interp.pdb (Full PDB)
